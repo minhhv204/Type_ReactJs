@@ -1,0 +1,109 @@
+{
+    "products":[
+        {   "id":1,
+            "name": "Product 1",
+            "price": 1000,
+            "description": "This is product 2 ",
+            "image":"http://picsum.photos/id/19/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : false
+        },
+        {
+            "id":2,
+            "name": "Product 2",
+            "price": 1000,
+            "description": "This is product 2 ",
+            "image":"http://picsum.photos/id/10/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : true
+        },
+        {
+            "id":3,
+            "name": "Product 3",
+            "price": 1000,
+            "description": "This is product 3 ",
+            "image":"http://picsum.photos/id/11/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : false
+        },
+        {
+            "id":4,
+            "name": "Product 4",
+            "price": 1000,
+            "description": "This is product 4 ",
+            "image":"http://picsum.photos/id/12/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : true
+        },
+        {
+            "id":5,
+            "name": "Product 5",
+            "price": 1000,
+            "description": "This is product 5 ",
+            "image":"http://picsum.photos/id/13/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : false
+        }
+        ,  {
+            "id":6,
+            "name": "Product 6",
+            "price": 1000,
+            "description": "This is product 6 ",
+            "image":"http://picsum.photos/id/14/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : true
+        },
+        {
+            "id":7,
+            "name": "Product 7",
+            "price": 1000,
+            "description": "This is product 7 ",
+            "image":"http://picsum.photos/id/15/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : false
+        },
+        {
+            "id":8,
+            "name": "Product 8",
+            "price": 1000,
+            "description": "This is product 8 ",
+            "image":"http://picsum.photos/id/16/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : true
+        },
+        {
+            "id":9,
+            "name": "Product 9",
+            "price": 1000,
+            "description": "This is product 9 ",
+            "image":"http://picsum.photos/id/17/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : false
+        },
+        {
+            "id":10,
+            "name": "Product 10",
+            "price": 1000,
+            "description": "This is product 10",
+            "image":"http://picsum.photos/id/18/300/300",
+            "quantity": 100,
+            "disscount": 30, 
+            "featured" : true
+        }
+    ],
+    "users":[
+        {
+            "email": "admin@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
